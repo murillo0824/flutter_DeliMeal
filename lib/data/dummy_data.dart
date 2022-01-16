@@ -3,52 +3,52 @@ import 'package:flutter/material.dart';
 import '../models/category.dart';
 
 const dummyCategories = [
-  Category_models(
+  CategoryModels(
     id: 'c1',
     title: 'Italian',
     color: Colors.purple,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c2',
     title: 'Quick & Easy',
     color: Colors.red,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c3',
     title: 'Hamburgers',
     color: Colors.orange,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c4',
     title: 'German',
     color: Colors.amber,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c5',
     title: 'Light & Lovely',
     color: Colors.blue,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c6',
     title: 'Exotic',
     color: Colors.green,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c7',
     title: 'Breakfast',
     color: Colors.lightBlue,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c8',
     title: 'Asian',
     color: Colors.lightGreen,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c9',
     title: 'French',
     color: Colors.pink,
   ),
-  Category_models(
+  CategoryModels(
     id: 'c10',
     title: 'Summer',
     color: Colors.teal,
